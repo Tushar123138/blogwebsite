@@ -1,2 +1,2 @@
 # blogwebsite
-blogplatform
+<img width="1916" height="821" alt="Screenshot 2025-12-23 141743" src="https://github.com/user-attachments/assets/b02c2d62-6747-4974-85a3-bf6ee5707511" />
